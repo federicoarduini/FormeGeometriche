@@ -15,6 +15,7 @@ Si realizzino poi le classi che implementano le particolari figure:
 - Quadrato
 - Cerchio
 che specializzano appropriatamente la classe Figura aggiungendo gli attributi necessari (lati/raggio).
+
 I metodi per calcolare area e perimetro dovranno ovviamente essere riscritti per ogni classe. Inoltre
 creare la giusta gerarchia tra le varie classi (Esempio: Quadrato è un caso particolare di Rettangolo).
 Dove appropriato definire anche metodi quali get/setBase e get/setAltezza (o get/setRaggio).
